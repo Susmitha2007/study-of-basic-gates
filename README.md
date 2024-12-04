@@ -85,4 +85,4 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 **Result:**
 
-
+Thus the Basic digital ICs and the verification of truth tables for different logic gates were studied and successfully realized using Verilog.
